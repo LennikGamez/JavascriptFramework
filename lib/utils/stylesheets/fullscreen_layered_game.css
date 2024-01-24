@@ -1,0 +1,36 @@
+html, body {
+    position: fixed;
+}
+
+html, body {
+    position: relative;
+    overflow: hidden;
+}
+
+body {
+    margin: 0;
+    position: fixed;
+    overflow: hidden;
+}
+
+body {
+    position: fixed;
+    height: 100%;
+    overflow: hidden;
+    width: 100%;
+}
+
+
+
+.game-frame{
+    padding: 1px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#layer-0{
+    background-size: cover;
+    background-position: center;
+}
